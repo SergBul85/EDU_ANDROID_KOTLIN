@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Section_09/Lesson_9.5/app/src/main/java/com/cocktails/ApiService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_09/Lesson_9.6/app/src/main/java/com/cocktails/MainViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_09/Lesson_9.9/app/src/main/java/com/cocktails/CocktailView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EDU_ANDROID_KOTLIN.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="Lesson 9.11">
+      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.4/app/src/main/java/com/example/navtestapp/ChildScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.5/app/src/main/java/com/example/navtestapp/ParentScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.7/app/src/main/java/com/cocktails/DrinkDetailView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.8/app/src/main/java/com/cocktails/View.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.9/app/src/main/java/com/cocktails/CocktailApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
@@ -146,6 +145,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735143559669</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson 9.11">
+      <option name="closed" value="true" />
+      <created>1736681813927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736681813927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 9.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9.11" />
   </component>
 </project>
