@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="Lesson 9.11">
-      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.4/app/src/main/java/com/example/navtestapp/ChildScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.5/app/src/main/java/com/example/navtestapp/ParentScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.7/app/src/main/java/com/cocktails/DrinkDetailView.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.8/app/src/main/java/com/cocktails/View.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Section_10/Lesson_10.9/app/src/main/java/com/cocktails/CocktailApp.kt" afterDir="false" />
+    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="Section_10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,21 +35,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "android.gradle.sync.needed": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="JSON.app.main" />
@@ -153,11 +148,20 @@
       <option name="project" value="LOCAL" />
       <updated>1736681813927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Section_10">
+      <option name="closed" value="true" />
+      <created>1737300063721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737300063721</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 9.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9.11" />
+    <MESSAGE value="Section_10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section_10" />
   </component>
 </project>
