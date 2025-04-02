@@ -4,8 +4,498 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="Section_15">
-      <change beforePath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+    <list default="true" id="2ff4ffb5-e763-4028-96b3-0cfcfb7b24e1" name="Changes" comment="Section_12">
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/CalculatorViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.10/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/CalculatorViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.11/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.2/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.3/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.4/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.5/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.6/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/CalculatorViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.7/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/CalculatorViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.8/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/androidTest/java/com/example/calculator/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/Calculator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/CalculatorViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/java/com/example/calculator/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/app/src/test/java/com/example/calculator/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_12/Lesson_12.9/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +511,6 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,22 +525,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "android.gradle.sync.needed": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/EDU_ANDROID_KOTLIN",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="JSON.app.main" />
@@ -177,31 +654,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737910306252</updated>
     </task>
-    <task id="LOCAL-00004" summary="Section_12">
-      <option name="closed" value="true" />
-      <created>1738792267319</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738792267319</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Section_13">
-      <option name="closed" value="true" />
-      <created>1739908645717</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1739908645717</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Section_15">
-      <option name="closed" value="true" />
-      <created>1743627316894</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1743627316894</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,8 +662,6 @@
     <MESSAGE value="Section_10" />
     <MESSAGE value="Section_11" />
     <MESSAGE value="Section_12" />
-    <MESSAGE value="Section_13" />
-    <MESSAGE value="Section_15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section_15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section_12" />
   </component>
 </project>
